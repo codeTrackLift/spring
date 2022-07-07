@@ -7,3 +7,20 @@
 #root {
   overflow-x: hidden;
 }
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App > div {
+  height: 120vh;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+h2 {
+  width: fit-content;
+  position: relative;
+}
