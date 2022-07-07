@@ -1,0 +1,9 @@
+*,*::before,*::after {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#root {
+  overflow-x: hidden;
+}
