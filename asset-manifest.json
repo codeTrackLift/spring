@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/spring/static/css/main.da425bea.css",
-    "main.js": "/github.io/spring/static/js/main.5eaf4141.js",
-    "index.html": "/github.io/spring/index.html",
-    "main.da425bea.css.map": "/github.io/spring/static/css/main.da425bea.css.map",
-    "main.5eaf4141.js.map": "/github.io/spring/static/js/main.5eaf4141.js.map"
+    "main.css": "/spring/static/css/main.da425bea.css",
+    "main.js": "/spring/static/js/main.5eaf4141.js",
+    "index.html": "/spring/index.html",
+    "main.da425bea.css.map": "/spring/static/css/main.da425bea.css.map",
+    "main.5eaf4141.js.map": "/spring/static/js/main.5eaf4141.js.map"
   },
   "entrypoints": [
     "static/css/main.da425bea.css",
